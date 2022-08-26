@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Tekla.Structures.ExceptionHandler</name>
+    </assembly>
+    <members>
+        <member name="T:Tekla.Structures.Internal.UnhandledExceptionHandler">
+            <summary>
+            The class catches uncaught exceptions from the current appdomain and shows a dialog with the exception's message in it before
+            the application terminates.
+            </summary>
+        </member>
+        <member name="M:Tekla.Structures.Internal.UnhandledExceptionHandler.RegisterHandler(System.String)">
+            <summary>
+            Register the uncaught exception handler for the current appdomain.
+            The exported function name is so short because there is a limitation to the max length of an Akit Method's name.
+            </summary>
+            <param name="param">Not used.</param>
+            <returns>0 always (DAKIT_ERROR_OK).</returns>
+        </member>
+    </members>
+</doc>

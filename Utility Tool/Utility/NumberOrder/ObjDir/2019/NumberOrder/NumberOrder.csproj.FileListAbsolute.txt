@@ -1,0 +1,52 @@
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\NumberOrder.exe.config
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\NumberOrder.exe
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\NumberOrder.pdb
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\Tekla.Application.Library.dll
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\Tekla.Structures.Analysis.dll
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\Tekla.Structures.Catalogs.dll
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\Tekla.Structures.Datatype.dll
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\Tekla.Structures.Dialog.dll
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\Tekla.Structures.dll
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\Tekla.Structures.Drawing.dll
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\Tekla.Structures.Model.dll
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\Tekla.Structures.Plugins.dll
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\Akit5.dll
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\Ionic.Zip.dll
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\Mono.Cecil.dll
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\Tekla.Technology.MsgLib.dll
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\Tekla.Technology.Serialization.dll
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\Tekla.Technology.Scripting.dll
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\NumberOrder\bin\Debug\Tekla.Technology.Scripting.Plugins.dll
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\ObjDir\2019\NumberOrder\NumberOrder.csproj.SuggestedBindingRedirects.cache
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\ObjDir\2019\NumberOrder\NumberOrder.Form1.resources
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\ObjDir\2019\NumberOrder\NumberOrder.Properties.Resources.resources
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\ObjDir\2019\NumberOrder\NumberOrder.csproj.GenerateResource.cache
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\ObjDir\2019\NumberOrder\NumberOrder.csproj.CoreCompileInputs.cache
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\ObjDir\2019\NumberOrder\NumberOrder.csproj.CopyComplete
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\ObjDir\2019\NumberOrder\NumberOrder.exe
+\\192.168.2.3\Development\Tekla\14-02-22\NumberOrder\ObjDir\2019\NumberOrder\NumberOrder.pdb
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\ObjDir\2019\NumberOrder\NumberOrder.csproj.AssemblyReference.cache
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\ObjDir\2019\NumberOrder\NumberOrder.NumberOrder.resources
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\ObjDir\2019\NumberOrder\NumberOrder.Properties.Resources.resources
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\ObjDir\2019\NumberOrder\NumberOrder.csproj.GenerateResource.cache
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\ObjDir\2019\NumberOrder\NumberOrder.csproj.CoreCompileInputs.cache
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\ObjDir\2019\NumberOrder\NumberOrder.exe
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\ObjDir\2019\NumberOrder\NumberOrder.pdb
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\NumberOrder\bin\Debug\NumberOrder.exe.config
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\NumberOrder\bin\Debug\NumberOrder.exe
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\NumberOrder\bin\Debug\NumberOrder.pdb
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\NumberOrder\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\NumberOrder\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\NumberOrder\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\NumberOrder\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\NumberOrder\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\NumberOrder\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\NumberOrder\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\NumberOrder\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\NumberOrder\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\NumberOrder\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\NumberOrder\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\NumberOrder\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\NumberOrder\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\NumberOrder\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\Abinesh\Esskay Automation\Give-To-VijayKumar\Utility Tool\Utility\NumberOrder\ObjDir\2019\NumberOrder\NumberOrder.csproj.CopyComplete

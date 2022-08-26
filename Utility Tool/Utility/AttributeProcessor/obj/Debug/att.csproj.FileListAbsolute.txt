@@ -1,0 +1,10 @@
+D:\Vijayakumar\01_Tekla_API\SK-006-eSheet-PhaseSetting\New folder\att\bin\Debug\att.exe.config
+D:\Vijayakumar\01_Tekla_API\SK-006-eSheet-PhaseSetting\New folder\att\bin\Debug\att.exe
+D:\Vijayakumar\01_Tekla_API\SK-006-eSheet-PhaseSetting\New folder\att\bin\Debug\att.pdb
+D:\Vijayakumar\01_Tekla_API\SK-006-eSheet-PhaseSetting\New folder\att\obj\Debug\att.csproj.AssemblyReference.cache
+D:\Vijayakumar\01_Tekla_API\SK-006-eSheet-PhaseSetting\New folder\att\obj\Debug\att.Properties.Resources.resources
+D:\Vijayakumar\01_Tekla_API\SK-006-eSheet-PhaseSetting\New folder\att\obj\Debug\att.csproj.GenerateResource.cache
+D:\Vijayakumar\01_Tekla_API\SK-006-eSheet-PhaseSetting\New folder\att\obj\Debug\att.csproj.CoreCompileInputs.cache
+D:\Vijayakumar\01_Tekla_API\SK-006-eSheet-PhaseSetting\New folder\att\obj\Debug\att.exe
+D:\Vijayakumar\01_Tekla_API\SK-006-eSheet-PhaseSetting\New folder\att\obj\Debug\att.pdb
+D:\Vijayakumar\01_Tekla_API\SK-006-eSheet-PhaseSetting\New folder\att\obj\Debug\att.Form1.resources

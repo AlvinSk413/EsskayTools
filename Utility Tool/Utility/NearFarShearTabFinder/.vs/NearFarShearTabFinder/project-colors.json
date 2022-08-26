@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3e7a6414-32a7-44e1-bbf3-56b53a2dab0c": {
+      "ProjectGuid": "3e7a6414-32a7-44e1-bbf3-56b53a2dab0c",
+      "DisplayName": "NearFarShearTabFinder",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

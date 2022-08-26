@@ -1,0 +1,44 @@
+TITLE_OBJECT_GROUP 
+{
+    Version= 1.05 
+    Count= 3 
+    SECTION_OBJECT_GROUP 
+    {
+        0 
+        1 
+        co_part 
+        proNAME 
+        albl_Name 
+        *CONTAINS* 
+        albl_Contains 
+        BEAM 
+        0 
+        && 
+        }
+    SECTION_OBJECT_GROUP 
+    {
+        0 
+        1 
+        co_part 
+        proPrimaryPart 
+        albl_Primary_part 
+        == 
+        albl_Equals 
+        1 
+        0 
+        && 
+        }
+    SECTION_OBJECT_GROUP 
+    {
+        0 
+        1 
+        co_part 
+        proPHASE 
+        albl_Phase 
+        == 
+        albl_Equals 
+        503
+        0 
+        && 
+        }
+    }

@@ -1,0 +1,24 @@
+12th May 2022 Demo Comments - Ulag / Kesavan
+ 
+1. All Earlier remarks to be displayed.
+2. Excel File name to have project (SK Number) and JobName
+2. Severity to be entered by PM based on model only.
+3. Additional column to be added during back draft stage for model update.
+4. Control for completed will be done based on model update only. if pending record's cant be moved to next stage.
+5. 3 Documents [log, register, merged] - one drawing and one model register for one project.
+
+QA - Team
+1. Analysis
+
+13th May 2022 Demo Comments - Ulag / Kesavan / Nimain, Satish
+Agreed only - Modelupdated will be enabled else disabled
+If disagree then ramarks is manadatory
+validation of modelupdated based on agree condtion to be done before completed or move to next stage
+Report Number will be based on project, SK1741-001(three digits)-ABM Checking, .....
+Sequence number will be based on guid part phase name
+modeller will be the owner who will be adding the guid into the system.
+old report or new report before rolling out on or before 18th May 2022
+backcheck agree and one more column back check observation to be added
+before qa stage DPM will have full control where he can change the stage.
+guid deleted will be shown as red in user interface (Row will be red font)
+

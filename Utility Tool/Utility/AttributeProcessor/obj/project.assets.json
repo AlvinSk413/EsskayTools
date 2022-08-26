@@ -1,0 +1,438 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "Microsoft.SharePointOnline.CSOM/16.1.22615.12000": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Microsoft.Office.Client.Policy.dll": {},
+          "lib/net45/Microsoft.Office.Client.TranslationServices.dll": {},
+          "lib/net45/Microsoft.Office.SharePoint.Tools.dll": {},
+          "lib/net45/Microsoft.Online.SharePoint.Client.Tenant.dll": {},
+          "lib/net45/Microsoft.ProjectServer.Client.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.DocumentManagement.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Publishing.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Runtime.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.Applications.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Taxonomy.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.UserProfiles.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.WorkflowServices.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.Office.Client.Policy.dll": {},
+          "lib/net45/Microsoft.Office.Client.TranslationServices.dll": {},
+          "lib/net45/Microsoft.Office.SharePoint.Tools.dll": {},
+          "lib/net45/Microsoft.Online.SharePoint.Client.Tenant.dll": {},
+          "lib/net45/Microsoft.ProjectServer.Client.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.DocumentManagement.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Publishing.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Runtime.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.Applications.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Taxonomy.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.UserProfiles.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.WorkflowServices.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.dll": {}
+        }
+      },
+      "TeklaOpenAPI/2021.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/Tekla.Application.Library.dll": {},
+          "lib/Tekla.Structures.Analysis.dll": {},
+          "lib/Tekla.Structures.Catalogs.dll": {},
+          "lib/Tekla.Structures.Datatype.dll": {},
+          "lib/Tekla.Structures.Dialog.dll": {},
+          "lib/Tekla.Structures.Drawing.dll": {},
+          "lib/Tekla.Structures.Model.dll": {},
+          "lib/Tekla.Structures.Plugins.dll": {},
+          "lib/Tekla.Structures.dll": {}
+        },
+        "runtime": {
+          "lib/Tekla.Application.Library.dll": {},
+          "lib/Tekla.Structures.Analysis.dll": {},
+          "lib/Tekla.Structures.Catalogs.dll": {},
+          "lib/Tekla.Structures.Datatype.dll": {},
+          "lib/Tekla.Structures.Dialog.dll": {},
+          "lib/Tekla.Structures.Drawing.dll": {},
+          "lib/Tekla.Structures.Model.dll": {},
+          "lib/Tekla.Structures.Plugins.dll": {},
+          "lib/Tekla.Structures.dll": {}
+        },
+        "build": {
+          "build/TeklaOpenAPI.props": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win": {
+      "Microsoft.SharePointOnline.CSOM/16.1.22615.12000": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Microsoft.Office.Client.Policy.dll": {},
+          "lib/net45/Microsoft.Office.Client.TranslationServices.dll": {},
+          "lib/net45/Microsoft.Office.SharePoint.Tools.dll": {},
+          "lib/net45/Microsoft.Online.SharePoint.Client.Tenant.dll": {},
+          "lib/net45/Microsoft.ProjectServer.Client.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.DocumentManagement.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Publishing.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Runtime.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.Applications.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Taxonomy.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.UserProfiles.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.WorkflowServices.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.Office.Client.Policy.dll": {},
+          "lib/net45/Microsoft.Office.Client.TranslationServices.dll": {},
+          "lib/net45/Microsoft.Office.SharePoint.Tools.dll": {},
+          "lib/net45/Microsoft.Online.SharePoint.Client.Tenant.dll": {},
+          "lib/net45/Microsoft.ProjectServer.Client.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.DocumentManagement.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Publishing.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Runtime.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.Applications.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Taxonomy.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.UserProfiles.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.WorkflowServices.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.dll": {}
+        }
+      },
+      "TeklaOpenAPI/2021.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/Tekla.Application.Library.dll": {},
+          "lib/Tekla.Structures.Analysis.dll": {},
+          "lib/Tekla.Structures.Catalogs.dll": {},
+          "lib/Tekla.Structures.Datatype.dll": {},
+          "lib/Tekla.Structures.Dialog.dll": {},
+          "lib/Tekla.Structures.Drawing.dll": {},
+          "lib/Tekla.Structures.Model.dll": {},
+          "lib/Tekla.Structures.Plugins.dll": {},
+          "lib/Tekla.Structures.dll": {}
+        },
+        "runtime": {
+          "lib/Tekla.Application.Library.dll": {},
+          "lib/Tekla.Structures.Analysis.dll": {},
+          "lib/Tekla.Structures.Catalogs.dll": {},
+          "lib/Tekla.Structures.Datatype.dll": {},
+          "lib/Tekla.Structures.Dialog.dll": {},
+          "lib/Tekla.Structures.Drawing.dll": {},
+          "lib/Tekla.Structures.Model.dll": {},
+          "lib/Tekla.Structures.Plugins.dll": {},
+          "lib/Tekla.Structures.dll": {}
+        },
+        "build": {
+          "build/TeklaOpenAPI.props": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "Microsoft.SharePointOnline.CSOM/16.1.22615.12000": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Microsoft.Office.Client.Policy.dll": {},
+          "lib/net45/Microsoft.Office.Client.TranslationServices.dll": {},
+          "lib/net45/Microsoft.Office.SharePoint.Tools.dll": {},
+          "lib/net45/Microsoft.Online.SharePoint.Client.Tenant.dll": {},
+          "lib/net45/Microsoft.ProjectServer.Client.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.DocumentManagement.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Publishing.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Runtime.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.Applications.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Taxonomy.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.UserProfiles.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.WorkflowServices.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.Office.Client.Policy.dll": {},
+          "lib/net45/Microsoft.Office.Client.TranslationServices.dll": {},
+          "lib/net45/Microsoft.Office.SharePoint.Tools.dll": {},
+          "lib/net45/Microsoft.Online.SharePoint.Client.Tenant.dll": {},
+          "lib/net45/Microsoft.ProjectServer.Client.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.DocumentManagement.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Publishing.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Runtime.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.Applications.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Taxonomy.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.UserProfiles.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.WorkflowServices.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.dll": {}
+        }
+      },
+      "TeklaOpenAPI/2021.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/Tekla.Application.Library.dll": {},
+          "lib/Tekla.Structures.Analysis.dll": {},
+          "lib/Tekla.Structures.Catalogs.dll": {},
+          "lib/Tekla.Structures.Datatype.dll": {},
+          "lib/Tekla.Structures.Dialog.dll": {},
+          "lib/Tekla.Structures.Drawing.dll": {},
+          "lib/Tekla.Structures.Model.dll": {},
+          "lib/Tekla.Structures.Plugins.dll": {},
+          "lib/Tekla.Structures.dll": {}
+        },
+        "runtime": {
+          "lib/Tekla.Application.Library.dll": {},
+          "lib/Tekla.Structures.Analysis.dll": {},
+          "lib/Tekla.Structures.Catalogs.dll": {},
+          "lib/Tekla.Structures.Datatype.dll": {},
+          "lib/Tekla.Structures.Dialog.dll": {},
+          "lib/Tekla.Structures.Drawing.dll": {},
+          "lib/Tekla.Structures.Model.dll": {},
+          "lib/Tekla.Structures.Plugins.dll": {},
+          "lib/Tekla.Structures.dll": {}
+        },
+        "build": {
+          "build/TeklaOpenAPI.props": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "Microsoft.SharePointOnline.CSOM/16.1.22615.12000": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Microsoft.Office.Client.Policy.dll": {},
+          "lib/net45/Microsoft.Office.Client.TranslationServices.dll": {},
+          "lib/net45/Microsoft.Office.SharePoint.Tools.dll": {},
+          "lib/net45/Microsoft.Online.SharePoint.Client.Tenant.dll": {},
+          "lib/net45/Microsoft.ProjectServer.Client.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.DocumentManagement.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Publishing.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Runtime.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.Applications.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Taxonomy.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.UserProfiles.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.WorkflowServices.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.Office.Client.Policy.dll": {},
+          "lib/net45/Microsoft.Office.Client.TranslationServices.dll": {},
+          "lib/net45/Microsoft.Office.SharePoint.Tools.dll": {},
+          "lib/net45/Microsoft.Online.SharePoint.Client.Tenant.dll": {},
+          "lib/net45/Microsoft.ProjectServer.Client.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.DocumentManagement.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Publishing.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Runtime.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.Applications.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Search.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.Taxonomy.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.UserProfiles.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.WorkflowServices.dll": {},
+          "lib/net45/Microsoft.SharePoint.Client.dll": {}
+        }
+      },
+      "TeklaOpenAPI/2021.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/Tekla.Application.Library.dll": {},
+          "lib/Tekla.Structures.Analysis.dll": {},
+          "lib/Tekla.Structures.Catalogs.dll": {},
+          "lib/Tekla.Structures.Datatype.dll": {},
+          "lib/Tekla.Structures.Dialog.dll": {},
+          "lib/Tekla.Structures.Drawing.dll": {},
+          "lib/Tekla.Structures.Model.dll": {},
+          "lib/Tekla.Structures.Plugins.dll": {},
+          "lib/Tekla.Structures.dll": {}
+        },
+        "runtime": {
+          "lib/Tekla.Application.Library.dll": {},
+          "lib/Tekla.Structures.Analysis.dll": {},
+          "lib/Tekla.Structures.Catalogs.dll": {},
+          "lib/Tekla.Structures.Datatype.dll": {},
+          "lib/Tekla.Structures.Dialog.dll": {},
+          "lib/Tekla.Structures.Drawing.dll": {},
+          "lib/Tekla.Structures.Model.dll": {},
+          "lib/Tekla.Structures.Plugins.dll": {},
+          "lib/Tekla.Structures.dll": {}
+        },
+        "build": {
+          "build/TeklaOpenAPI.props": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.SharePointOnline.CSOM/16.1.22615.12000": {
+      "sha512": "AJiI7ApweC1HYmlJiMvB3tIjtK0kCZnDLbQk66JqqUERTTIaZdIk/wyzGmyACZ8ox1zhxkDy2IbLOoAi8K7n3g==",
+      "type": "package",
+      "path": "microsoft.sharepointonline.csom/16.1.22615.12000",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/javascript/ps.js",
+        "lib/javascript/sp.datetimeutil.js",
+        "lib/javascript/sp.documentmanagement.js",
+        "lib/javascript/sp.js",
+        "lib/javascript/sp.publishing.js",
+        "lib/javascript/sp.requestexecutor.js",
+        "lib/javascript/sp.runtime.js",
+        "lib/javascript/sp.search.apps.js",
+        "lib/javascript/sp.search.js",
+        "lib/javascript/sp.taxonomy.js",
+        "lib/javascript/sp.translation.js",
+        "lib/javascript/sp.userprofiles.js",
+        "lib/javascript/sp.workflowservices.js",
+        "lib/javascript/sp.workmanagement.js",
+        "lib/net40-full/Microsoft.Office.Client.Policy.dll",
+        "lib/net40-full/Microsoft.Office.Client.TranslationServices.dll",
+        "lib/net40-full/Microsoft.Office.SharePoint.Tools.dll",
+        "lib/net40-full/Microsoft.Online.SharePoint.Client.Tenant.dll",
+        "lib/net40-full/Microsoft.ProjectServer.Client.dll",
+        "lib/net40-full/Microsoft.SharePoint.Client.DocumentManagement.dll",
+        "lib/net40-full/Microsoft.SharePoint.Client.Publishing.dll",
+        "lib/net40-full/Microsoft.SharePoint.Client.Runtime.dll",
+        "lib/net40-full/Microsoft.SharePoint.Client.Search.Applications.dll",
+        "lib/net40-full/Microsoft.SharePoint.Client.Search.dll",
+        "lib/net40-full/Microsoft.SharePoint.Client.Taxonomy.dll",
+        "lib/net40-full/Microsoft.SharePoint.Client.UserProfiles.dll",
+        "lib/net40-full/Microsoft.SharePoint.Client.WorkflowServices.dll",
+        "lib/net40-full/Microsoft.SharePoint.Client.dll",
+        "lib/net45/Microsoft.Office.Client.Policy.dll",
+        "lib/net45/Microsoft.Office.Client.TranslationServices.dll",
+        "lib/net45/Microsoft.Office.SharePoint.Tools.dll",
+        "lib/net45/Microsoft.Online.SharePoint.Client.Tenant.dll",
+        "lib/net45/Microsoft.ProjectServer.Client.dll",
+        "lib/net45/Microsoft.SharePoint.Client.DocumentManagement.dll",
+        "lib/net45/Microsoft.SharePoint.Client.Publishing.dll",
+        "lib/net45/Microsoft.SharePoint.Client.Runtime.dll",
+        "lib/net45/Microsoft.SharePoint.Client.Search.Applications.dll",
+        "lib/net45/Microsoft.SharePoint.Client.Search.dll",
+        "lib/net45/Microsoft.SharePoint.Client.Taxonomy.dll",
+        "lib/net45/Microsoft.SharePoint.Client.UserProfiles.dll",
+        "lib/net45/Microsoft.SharePoint.Client.WorkflowServices.dll",
+        "lib/net45/Microsoft.SharePoint.Client.dll",
+        "lib/netstandard2.0/Microsoft.Office.Client.Policy.dll",
+        "lib/netstandard2.0/Microsoft.Office.Client.TranslationServices.dll",
+        "lib/netstandard2.0/Microsoft.Office.SharePoint.Tools.dll",
+        "lib/netstandard2.0/Microsoft.Online.SharePoint.Client.Tenant.dll",
+        "lib/netstandard2.0/Microsoft.ProjectServer.Client.dll",
+        "lib/netstandard2.0/Microsoft.SharePoint.Client.DocumentManagement.dll",
+        "lib/netstandard2.0/Microsoft.SharePoint.Client.Publishing.dll",
+        "lib/netstandard2.0/Microsoft.SharePoint.Client.Runtime.dll",
+        "lib/netstandard2.0/Microsoft.SharePoint.Client.Search.Applications.dll",
+        "lib/netstandard2.0/Microsoft.SharePoint.Client.Search.dll",
+        "lib/netstandard2.0/Microsoft.SharePoint.Client.Taxonomy.dll",
+        "lib/netstandard2.0/Microsoft.SharePoint.Client.UserProfiles.dll",
+        "lib/netstandard2.0/Microsoft.SharePoint.Client.WorkflowServices.dll",
+        "lib/netstandard2.0/Microsoft.SharePoint.Client.dll",
+        "microsoft.sharepointonline.csom.16.1.22615.12000.nupkg.sha512",
+        "microsoft.sharepointonline.csom.nuspec"
+      ]
+    },
+    "TeklaOpenAPI/2021.0.1": {
+      "sha512": "U5ntsgROvHgtGk1wX06WiEkXoUiyFL6EvuadWE3zsu5BKq1C5VmCg1qazlESCRTYY2CTKGebRw20+k9h0D2afg==",
+      "type": "package",
+      "path": "teklaopenapi/2021.0.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "TeklaStructuresExtension.ico",
+        "build/TeklaOpenAPI.props",
+        "eula.txt",
+        "lib/Akit5.dll",
+        "lib/Ionic.Zip.dll",
+        "lib/Mono.Cecil.dll",
+        "lib/Tekla.Application.Library.dll",
+        "lib/Tekla.Application.Library.pdb",
+        "lib/Tekla.Structures.Analysis.dll",
+        "lib/Tekla.Structures.Analysis.pdb",
+        "lib/Tekla.Structures.Catalogs.dll",
+        "lib/Tekla.Structures.Catalogs.pdb",
+        "lib/Tekla.Structures.Datatype.dll",
+        "lib/Tekla.Structures.Datatype.pdb",
+        "lib/Tekla.Structures.Dialog.dll",
+        "lib/Tekla.Structures.Dialog.pdb",
+        "lib/Tekla.Structures.Drawing.dll",
+        "lib/Tekla.Structures.Drawing.pdb",
+        "lib/Tekla.Structures.Model.dll",
+        "lib/Tekla.Structures.Model.pdb",
+        "lib/Tekla.Structures.Plugins.dll",
+        "lib/Tekla.Structures.Plugins.pdb",
+        "lib/Tekla.Structures.dll",
+        "lib/Tekla.Structures.pdb",
+        "lib/Tekla.Technology.MsgLib.dll",
+        "lib/Tekla.Technology.Scripting.Plugins.dll",
+        "lib/Tekla.Technology.Scripting.dll",
+        "lib/Tekla.Technology.Serialization.dll",
+        "logo.png",
+        "teklaopenapi.2021.0.1.nupkg.sha512",
+        "teklaopenapi.nuspec",
+        "tools/install.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "Microsoft.SharePointOnline.CSOM >= 16.1.22615.12000",
+      "TeklaOpenAPI >= 2021.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SKS352\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Abinesh\\Esskay Automation\\Give-To-VijayKumar\\Utility Tool\\Utility\\AttributeProcessor\\AttributeProcessor.csproj",
+      "projectName": "AttributeProcessor",
+      "projectPath": "D:\\Abinesh\\Esskay Automation\\Give-To-VijayKumar\\Utility Tool\\Utility\\AttributeProcessor\\AttributeProcessor.csproj",
+      "packagesPath": "C:\\Users\\SKS352\\.nuget\\packages\\",
+      "outputPath": "D:\\Abinesh\\Esskay Automation\\Give-To-VijayKumar\\Utility Tool\\Utility\\AttributeProcessor\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\SKS352\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "Microsoft.SharePointOnline.CSOM": {
+            "target": "Package",
+            "version": "[16.1.22615.12000, )"
+          },
+          "TeklaOpenAPI": {
+            "target": "Package",
+            "version": "[2021.0.1, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
