@@ -1,5 +1,0 @@
-D:\Vijayakumar\01_Development\SK-008-ConnectionProcessor\ConnectionApp\obj\Debug\ConnectionProcessor.csproj.AssemblyReference.cache
-D:\Vijayakumar\01_Development\SK-008-ConnectionProcessor\ConnectionApp\obj\Debug\PipeSupport.frmconnectionprocess.resources
-D:\Vijayakumar\01_Development\SK-008-ConnectionProcessor\ConnectionApp\obj\Debug\ConnectionProcessor.Properties.Resources.resources
-D:\Vijayakumar\01_Development\SK-008-ConnectionProcessor\ConnectionApp\obj\Debug\ConnectionProcessor.csproj.GenerateResource.cache
-D:\Vijayakumar\01_Development\SK-008-ConnectionProcessor\ConnectionApp\obj\Debug\ConnectionProcessor.csproj.CoreCompileInputs.cache

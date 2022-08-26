@@ -1,9 +1,0 @@
-D:\Vhinoth\ABMLengthVSLiveLength\ABMLengthVSLiveLength\bin\Debug\ABMLengthVSLiveLength.exe.config
-D:\Vhinoth\ABMLengthVSLiveLength\ABMLengthVSLiveLength\bin\Debug\ABMLengthVSLiveLength.exe
-D:\Vhinoth\ABMLengthVSLiveLength\ABMLengthVSLiveLength\bin\Debug\ABMLengthVSLiveLength.pdb
-D:\Vhinoth\ABMLengthVSLiveLength\ObjDir\21.1\ABMLengthVSLiveLength\ABMLengthVSLiveLength.csprojAssemblyReference.cache
-D:\Vhinoth\ABMLengthVSLiveLength\ObjDir\21.1\ABMLengthVSLiveLength\ABMLengthVSLiveLength.Form1.resources
-D:\Vhinoth\ABMLengthVSLiveLength\ObjDir\21.1\ABMLengthVSLiveLength\ABMLengthVSLiveLength.Properties.Resources.resources
-D:\Vhinoth\ABMLengthVSLiveLength\ObjDir\21.1\ABMLengthVSLiveLength\ABMLengthVSLiveLength.csproj.GenerateResource.cache
-D:\Vhinoth\ABMLengthVSLiveLength\ObjDir\21.1\ABMLengthVSLiveLength\ABMLengthVSLiveLength.exe
-D:\Vhinoth\ABMLengthVSLiveLength\ObjDir\21.1\ABMLengthVSLiveLength\ABMLengthVSLiveLength.pdb
